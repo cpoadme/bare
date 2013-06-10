@@ -1,0 +1,4 @@
+bare
+====
+
+Empty Git Repository
